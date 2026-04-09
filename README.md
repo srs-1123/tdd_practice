@@ -15,4 +15,4 @@ dotnet test test/TddPractice.Tests.csproj
 dotnet watch test --project test/TddPractice.Tests.csproj
 ```
 
-`test` プロジェクトだけでなく、`ProjectReference` されている `src` 側の変更も監視されます。
+`test` プロジェクトだけでなく、`ProjectReference` されている `src` 側の変更も監視される。
